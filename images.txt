@@ -6,3 +6,6 @@ wangqiru/ttrss:latest
 wangqiru/mercury-parser-api:latest
 wangqiru/opencc-api-server:latest
 postgres:16-alpine
+diygod/rsshub
+browserless/chrome
+redis:alpine
