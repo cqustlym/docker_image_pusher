@@ -9,3 +9,4 @@ postgres:16-alpine
 diygod/rsshub
 browserless/chrome
 redis:alpine
+watchtower 
