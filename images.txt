@@ -1,12 +1,2 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
-cooderl/wewe-rss-sqlite:latest
-wangqiru/ttrss:latest
-wangqiru/mercury-parser-api:latest
-wangqiru/opencc-api-server:latest
-postgres:16-alpine
-diygod/rsshub
-browserless/chrome
-redis:alpine
-wcjiang/reference:latest
+caliber-web
